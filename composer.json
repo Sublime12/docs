@@ -1,0 +1,13 @@
+{
+    "name": "sublime/laravel-docs",
+    "description": "A offline laravel docs",
+    "require": {
+        "erusev/parsedown": "^1.7"
+    },
+    "authors": [
+        {
+            "name": "Sublime12",
+            "email": "tshimangasublime@gmail.com"
+        }
+    ]
+}
